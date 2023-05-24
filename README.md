@@ -23,4 +23,4 @@ To run the Todo List app locally, follow these steps:
 6. Start the application
 ```npm run dev```
 
-Or.. you can just try it here -->  
+
